@@ -18,15 +18,13 @@ I recently completed my Master’s degree in Cybersecurity and am passionate abo
 - Playing football ⚽
 - Connecting with like-minded security enthusiasts
 
-
-![Khalid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=khalidebn&show_icons=true&theme=radical)
-
 ---
 
-<h2> phone Connect with me:</h2>
+## 🔗 Find Me Online
 
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][X]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+- 💼 [LinkedIn](https://www.linkedin.com/in/khalid-ahmed-msc-2359a4282/)
+- 🌐 [Portfolio](https://khalidebn.github.io/kh.github.io/)
+- 🐙 [GitHub](https://github.com/khalidebn) (You’re here!)
 
-[X]: https://x.com/k7alid_9
-[linkedin]: https://www.linkedin.com/in/khalid-ahmed-msc-2359a4282/
+---
+![Khalid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=khalidebn&show_icons=true&theme=radical)
