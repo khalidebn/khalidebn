@@ -1,9 +1,6 @@
 <h1>Hi, I'm Khalid! <br/><a href="https://github.com/khalidebn">Cybersecurity Professional</a>, <a href="https://github.com/khalidebn">Penetration Tester</a></h1>
----
 
 
-
----
 ## 🚀 About Me
 
 I recently completed my Master’s degree in Cybersecurity and am passionate about exploring new attack strategies and defense methodologies. I love solving CTF challenges, building automation tools, and constantly learning about the evolving world of security.
