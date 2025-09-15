@@ -18,11 +18,6 @@ I recently completed my Master’s degree in Cybersecurity and am passionate abo
 - Playing football ⚽
 - Connecting with like-minded security enthusiasts
 
----
-
-
-
----
 
 ![Khalid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=khalidebn&show_icons=true&theme=radical)
 
