@@ -1,7 +1,4 @@
-<h1>Hi, I'm Khalid! <br/><a href="https://github.com/khalidebn">Programmer</a>, Cybersecurity Professional</a>
-
-
-Fresh Master's graduate in **Cybersecurity** | Python Enthusiast | CTF Solver | Football Fan
+<h1>Hi, I'm Khalid! <br/><a href="https://github.com/khalidebn">Cybersecurity Professional</a>, <br/><a href="https://github.com/khalidebn">Cybersecurity Professional</a></a>
 
 ---
 
