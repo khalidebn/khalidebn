@@ -20,13 +20,7 @@ I recently completed my Master’s degree in Cybersecurity and am passionate abo
 
 ---
 
-<h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][X]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[X]: https://x.com/k7alid_9
-[linkedin]: https://www.linkedin.com/in/khalid-ahmed-msc-2359a4282/
 
 ---
 
@@ -34,4 +28,10 @@ I recently completed my Master’s degree in Cybersecurity and am passionate abo
 
 ---
 
-> *“Cybersecurity is not just a profession, it's a mindset.”*
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][X]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[X]: https://x.com/k7alid_9
+[linkedin]: https://www.linkedin.com/in/khalid-ahmed-msc-2359a4282/
