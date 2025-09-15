@@ -1,5 +1,5 @@
 <h1>Hi, I'm Khalid! <br/><a href="https://github.com/khalidebn">Cybersecurity Professional</a>, <a href="https://github.com/khalidebn">Penetration Tester</a></h1>
----
+
 
 ## 🚀 About Me
 
@@ -20,11 +20,13 @@ I recently completed my Master’s degree in Cybersecurity and am passionate abo
 
 ---
 
-## 🔗 Find Me Online
+<h2> 🤳 Connect with me:</h2>
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/khalid-ahmed-msc-2359a4282/)
-- 🌐 [Portfolio](https://khalidebn.github.io/kh.github.io/)
-- 🐙 [GitHub](https://github.com/khalidebn) (You’re here!)
+[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][X]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[X]: https://x.com/k7alid_9
+[linkedin]: https://www.linkedin.com/in/khalid-ahmed-msc-2359a4282/
 
 ---
 
