@@ -22,10 +22,10 @@ I recently completed my Master’s degree in Cybersecurity and am passionate abo
 
 ## 🔗 Find Me Online
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khalid-ahmed-msc-2359a4282/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://khalidebn.github.io/kh.github.io/)
-[![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/k7alid_9)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khalidebn)
+- 💼 [LinkedIn](https://www.linkedin.com/in/khalid-ahmed-msc-2359a4282/)
+- 🌐 [Portfolio](https://khalidebn.github.io/kh.github.io/)
+- 🐦 [X (Twitter)](https://x.com/k7alid_9)
+- 🐙 [GitHub](https://github.com/khalidebn) *(You’re here!)*
 
 
 ---
