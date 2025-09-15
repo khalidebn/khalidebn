@@ -24,6 +24,7 @@ I recently completed my Master’s degree in Cybersecurity and am passionate abo
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/khalid-ahmed-msc-2359a4282/)
 - 🌐 [Portfolio](https://khalidebn.github.io/kh.github.io/)
+- 𝕏 [Portfolio](https://x.com/k7alid_9)
 - 🐙 [GitHub](https://github.com/khalidebn) (You’re here!)
 
 ---
