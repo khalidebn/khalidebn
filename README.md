@@ -7,20 +7,21 @@
 
 ## About Me
 
-I’m a cybersecurity professional with a Master’s degree in the field, specializing in penetration testing and vulnerability assessments. My expertise lies in identifying and mitigating security risks to ensure systems and networks remain resilient against evolving threats. I have a strong background in penetration testing methodologies, application security, and infrastructure protection. I am committed to continuous learning and applying advanced techniques in ethical hacking, while also being passionate about contributing to the cybersecurity community and sharing knowledge.
+Cybersecurity professional specializing in penetration testing, vulnerability assessment, and application security. Skilled in identifying and mitigating risks, strengthening infrastructure, and applying advanced ethical hacking techniques. Committed to continuous learning and contributing to the cybersecurity community.
 
   
 ## Projects:
 
-   - [Python-Automation](https://github.com/khalidebn/Python-Automation): Streamlining tasks & security automation with Python
-   - [cybe.repo](https://github.com/khalidebn/cybe.repo): Hacking tools built with Python, Bash & PowerShell
+   - [**Python-Automation**](https://github.com/khalidebn/Python-Automation): Streamlining tasks & security automation with Python
+   - [**cybe.repo**](https://github.com/khalidebn/cybe.repo): Hacking tools built with Python, Bash & PowerShell
 
 
-## Interests & Hobbies
+## Interests
 
-- Solving CTF challenges and puzzles
-- Reading books and articles in cybersecurity
-- Connecting with like-minded security enthusiasts
+- CTF challenges and cybersecurity puzzles
+- Writing blogs and articles on security topics
+- Reading cybersecurity books and articles
+- Connecting with fellow cybersecurity enthusiasts
 
 ---
 
