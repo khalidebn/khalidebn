@@ -12,8 +12,9 @@ Cybersecurity professional specializing in penetration testing, vulnerability as
   
 # Projects:
 
-   - [**Python-Automation**](https://github.com/khalidebn/Python-Automation): Streamlining tasks & security automation with Python
    - [**cybe.repo**](https://github.com/khalidebn/cybe.repo): Hacking tools built with Python, Bash & PowerShell
+   - [**Cyber-Articles**](https://github.com/khalidebn/Cyber-Articles)
+   - [**Python-Automation**](https://github.com/khalidebn/Python-Automation): Streamlining tasks & security automation with Python
 
 
 # Interests
